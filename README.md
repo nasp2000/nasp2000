@@ -1,6 +1,6 @@
 # Nuno Pereira
 
-**I am not a programmer and I have no intention of becoming one. I am just a man full of ideas.**<br>
+**I am not a programmer and I have no intention of becoming one. I am just a man full of ideas, with many songs that AI plays incredibly well.**<br>
 **99.9% of the code here is executed by AI.**
 
 📍 Arraiolos, Portugal
