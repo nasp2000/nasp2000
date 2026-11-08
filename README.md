@@ -43,17 +43,6 @@ Industrial statistics desktop app in Rust. Offline, MIT, one executable, no tele
 
 ---
 
-## AI does the typing
-
-I bring the ideas, the brief and the judgement; the agent does the typing.
-
-- **Idea and brief** — what gets built, in plain language.
-- **Review on hardware** — if it does not run, it does not ship.
-- **Rules that hold** — tests first, docs in the same change, nothing merged blind.
-- **Offline by default** — no installers, no accounts, no telemetry.
-
----
-
 ![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasp2000&show_icons=true&hide_title=true&hide_rank=true&theme=transparent&border_color=30363d)
 
 *It all comes down to time and what we do with it.*
