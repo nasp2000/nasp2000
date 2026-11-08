@@ -1,7 +1,7 @@
 # Nuno Pereira
 
 **I am not a programmer, I decide what gets built, write the brief, and judge the result on real hardware.**<br>
-**99.9% of the code here is executed by AI.**
+**99.9% of the code is executed by AI.**
 
 📍 Arraiolos, Portugal
 
