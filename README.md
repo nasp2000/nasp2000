@@ -1,7 +1,5 @@
 # Nuno Pereira
 
-Desktop software in Rust, firmware for ESP32, small web tools. Old ideas, modern hardware.
-
 **I am not a programmer and I have no intention of becoming one. I am a human full of ideas — ~99% of the code here is executed by AI.**
 
 📍 Arraiolos, Portugal
