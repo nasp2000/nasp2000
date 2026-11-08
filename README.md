@@ -3,7 +3,7 @@
 **I am not a programmer and I have no intention of becoming one.**<br>
 **I am just a man full of ideas.**<br>
 **I decide what gets built, write the brief, and judge the result on real hardware.**<br>
-**99.9% of the code is executed by AI — the ideas and the standards are mine.**
+**99.9% of the code is executed by AI.**
 
 📍 Arraiolos, Portugal
 
