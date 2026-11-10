@@ -8,7 +8,7 @@ Tech gadgets, single-board computers, movies, robots, and artificial intelligenc
 
 Here on Github, I'm just a man with a lot of songs. But I can't sing and I'm not even very good at speaking.. AI is now my rock band who massively plays my songs so well. 
 
-Do you want a song ? Please contact me ;).<br>
+Do you want a song ? Please contact me ;) <br>
 
 
 📍 Arraiolos, Portugal
