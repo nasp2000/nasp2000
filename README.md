@@ -6,7 +6,7 @@ I'm Nuno, and I'm here partly because of my interests in open source software an
 
 Tech gadgets, single-board computers, movies, and artificial intelligence are the top of my interests. 
 
-Here on Github, I'm just a man with a lot of songs. But I can't sing and I'm not even very good at speaking.. AI is now my rock band that magically plays my songs. 
+Here on Github, I'm just a man with a lot of songs. But I can't sing and I'm not even very good at speaking.. AI is now my rock band who massively plays my songs so well. 
 
 Do you want a song ? Please contact me ;).**<br>
 
