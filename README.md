@@ -1,6 +1,6 @@
 # Nuno Pereira
 
-**I am not a programmer, I decide what gets built, write the brief, and judge the result on real hardware.**<br>
+**Since you've arrived here, I have to talk about myself in four or five lines. I'm Nuno, and I'm here partly because of my interests in open source software and hardware. For as long as I can remember I've been completely fanatical about the future, although my dream trip is to visit the past! Tech gadgets, single-board computers, movies, and now artificial intelligence are the top of my interests. Here on Github, I'm just a man with a lot of songs. I can't sing and I'm even weak at speaking. AI is now my rock band that magically plays my songs. Do you want a song, contact me ;).**<br>
 **99.9% of the code is executed by AI.**
 
 📍 Arraiolos, Portugal
