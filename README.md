@@ -1,6 +1,6 @@
 # Nuno Pereira
 
-**Since you've arrived here, I have to talk about myself in four or five lines...
+Since you've arrived here, I have to talk about myself in four or five lines...
 
 I'm Nuno, and I'm here partly because of my interests in open source software and hardware. For as long as I can remember I've been completely crazy about the future, although my dream trip is to visit the past! 
 
@@ -8,7 +8,7 @@ Tech gadgets, single-board computers, movies, robots, and artificial intelligenc
 
 Here on Github, I'm just a man with a lot of songs. But I can't sing and I'm not even very good at speaking.. AI is now my rock band who massively plays my songs so well. 
 
-Do you want a song ? Please contact me ;).**<br>
+Do you want a song ? Please contact me ;).<br>
 
 
 📍 Arraiolos, Portugal
