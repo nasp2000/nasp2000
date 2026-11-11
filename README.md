@@ -9,7 +9,7 @@ I'm Nuno, and I'm here partly because of my interests in open source software an
 Here on Github, I'm just a man with a lot of songs. But I can't sing and I'm not even very good at speaking.. AI is now my band who massively plays my songs so well. 
 
 
-Do you want a song ? Please contact me ;) <br>
+And if you like my songs, please contact me ;)  <br>
 
 
 📍 Arraiolos, Portugal
