@@ -2,7 +2,7 @@
 
 Since you've arrived here, I have to talk about myself in four or five lines...
 
-I'm Nuno, and I'm here partly because of my interests in open source software and hardware. For as long as I can remember I've been completely crazy about the future, although my dream trip is to visit the past! Tech gadgets, single-board computers, movies, robots, and artificial intelligence are the top of my interests. 
+I'm Nuno, and I'm here partly because of my interests in open source software and hardware. For as long as I can remember I've been completely crazy about tech and future, although my dream trip is to visit the past! Tech gadgets, single-board computers, movies, robots, and artificial intelligence are the top of my interests. 
 
 
 
