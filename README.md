@@ -1,6 +1,6 @@
 # Nuno Pereira
 
-Since you've arrived here, I have to talk about myself in four or five lines... Consider yourself lucky because this is very rare on my part!
+Since you've arrived here, I have to talk about myself in four or five lines... and for that consider yourself lucky because this is very rare on my part!
 
 I'm Nuno, and I'm here partly because of my interests in open source software and hardware. For as long as I can remember I've been completely crazy about tech and future, although my dream trip is to visit the past! Tech gadgets, single-board computers, movies, robots, and artificial intelligence are the top of my interests. 
 
