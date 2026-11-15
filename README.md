@@ -12,8 +12,6 @@ Here on Github, I'm just a man with a lot of songs. But I can't sing and I'm not
 
 And if you like my songs, please contact me ;)
 
-nasp2000*gmail.com
-
 <br>
 
 
