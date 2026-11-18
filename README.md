@@ -7,7 +7,7 @@ Tech gadgets, movies, single-board computers, some robots, and artificial intell
 
 
 
-Here on Github, I'm just a man with a lot of songs. But I don't know how to sing and I don't want any highlights.... AI is my band that masterfully plays all my songs.
+Here on Github, I'm just a man with a lot of songs. But I don't know how to sing... AI is my band that masterfully plays all my songs.
 
 
 And if you like my songs, please contact me ;)
