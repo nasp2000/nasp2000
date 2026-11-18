@@ -3,6 +3,7 @@
 Since you've arrived here, I have to talk about myself in four or five lines... and for that consider yourself lucky because this is very rare on my part!
 
 I'm Nuno, and I'm here partly because of my main interests in open source software and hardware. For as long as I can remember I've been completely nerd about tech and future, although my dream trip is to visit the past! 
+
 Tech gadgets, movies, single-board computers, some robots, and artificial intelligence are the top of my interests. 
 
 
