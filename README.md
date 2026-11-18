@@ -2,12 +2,12 @@
 
 Since you've arrived here, I have to talk about myself in four or five lines... and for that consider yourself lucky because this is very rare on my part!
 
-I'm Nuno, and I'm here partly because of my interests in open source software and hardware. For as long as I can remember I've been completely nerd about tech and future, although my dream trip is to visit the past! 
-Tech gadgets, single-board computers, movies, some robots, and artificial intelligence are the top of my interests. 
+I'm Nuno, and I'm here partly because of my main interests in open source software and hardware. For as long as I can remember I've been completely nerd about tech and future, although my dream trip is to visit the past! 
+Tech gadgets, movies, single-board computers, some robots, and artificial intelligence are the top of my interests. 
 
 
 
-Here on Github, I'm just a man with a lot of songs. But I can't sing... AI is my band that masterfully plays all my songs.
+Here on Github, I'm just a man with a lot of songs. But I don't know how to sing and I don't want any highlights.... AI is my band that masterfully plays all my songs.
 
 
 And if you like my songs, please contact me ;)
